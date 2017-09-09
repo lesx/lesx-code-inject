@@ -1,0 +1,30 @@
+{
+  "name": "lesx-code-inject",
+  "version": "0.0.1",
+  "description": "lesx code inject by babel",
+  "main": "./src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesx/lesx-code-inject.git"
+  },
+  "keywords": [
+    "lesx",
+    "code",
+    "inject"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesx/lesx-code-inject/issues"
+  },
+  "homepage": "https://github.com/lesx/lesx-code-inject#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-generator": "^6.26.0",
+    "babel-traverse": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "colors": "^1.1.2",
+    "lesx-parser": "^0.0.x",
+    "log-symbols": "^2.0.0"
+  }
+}
