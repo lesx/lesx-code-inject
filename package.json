@@ -1,6 +1,6 @@
 {
   "name": "lesx-code-inject",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "lesx code inject by babel",
   "main": "./lib/index.js",
   "scripts": {
